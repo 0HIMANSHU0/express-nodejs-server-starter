@@ -1,0 +1,17 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/node_modules
+/build
+/public/audios
+
+# /backend/public
+
+# misc
+/backend/config/config.env
+/config/config.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
